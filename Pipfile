@@ -8,6 +8,7 @@ django = "*"
 isort = "*"
 autopep8 = "*"
 flake8 = "*"
+psycopg2 = "*"
 
 [dev-packages]
 docformatter = "*"

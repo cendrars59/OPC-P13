@@ -128,3 +128,5 @@ dmypy.json
 
 # Vscode configurations files 
 .vscode/
+
+# Not wanted tracked directory (To create later)

@@ -9,6 +9,7 @@ isort = "*"
 autopep8 = "*"
 flake8 = "*"
 psycopg2 = "*"
+pytest-django = "*"
 
 [dev-packages]
 docformatter = "*"
